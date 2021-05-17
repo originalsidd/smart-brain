@@ -17,10 +17,10 @@ HTML5, CSS3, Tachyons, Javascript, React
 
 ### Back-end
 
-**Server**\
+**Server**:\
 Node.js, Expres.js, Knex.js, Clarifai API, pg
 
-**Database**\
+**Database**:\
 PostgreSQL, pgAdmin
 
 
