@@ -6,9 +6,11 @@
 
 **smart-brain** is a cool web-app on which users can upload pictures and in return the web-app detects any face present in the picure, displays the picture with the face marked in a rectangular box and increments the number of times a user detects any face. 
 
-It offers a very interactve sign in portalthrough which users can register/sign in to the web-app so tha their progress is saved.
+It offers a very interactve sign in portal through which users can register/sign in to the web-app so that their progress is saved.
 
 It is made up of client, server and database.
+
+Face detection model is used and trained from Clarifai API.
 
 ## Technologies used
 
@@ -22,5 +24,4 @@ Node.js, Expres.js, Knex.js, Clarifai API, pg
 
 **Database**:\
 PostgreSQL, pgAdmin
-
 
