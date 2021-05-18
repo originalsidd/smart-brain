@@ -22,7 +22,7 @@ HTML5, CSS3, Tachyons, Javascript, React
 ### Back-end
 
 **Server**:\
-Node.js, Expres.js, Knex.js, Clarifai API, pg
+Node.js, Express.js, Knex.js, Clarifai API, pg
 
 **Database**:\
 PostgreSQL, pgAdmin
